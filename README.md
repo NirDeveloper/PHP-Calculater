@@ -1,1 +1,1 @@
-# PHP-Calculater
+# PHP-calculator
